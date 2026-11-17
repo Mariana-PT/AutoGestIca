@@ -1,0 +1,12 @@
+# Maven / NetBeans / IDE
+target/
+build/
+dist/
+nbproject/private/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Credenciales locales (NO subir)
+db.properties

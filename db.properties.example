@@ -1,0 +1,5 @@
+# Copia este archivo como "db.properties" y ajusta tus datos.
+# (db.properties esta en .gitignore, asi tu contraseña no se sube a GitHub)
+db.url=jdbc:mysql://localhost:3306/db_autigest_ica?useSSL=false&serverTimezone=UTC
+db.user=root
+db.password=
